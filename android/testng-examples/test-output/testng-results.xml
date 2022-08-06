@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31122" started-at="2022-08-06T14:03:04Z" finished-at="2022-08-06T14:03:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31122" started-at="2022-08-06T14:03:04Z" finished-at="2022-08-06T14:03:35Z">
+      <class name="com.browserstack.run_second_test.SecondTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.browserstack.run_second_test.SecondTest@15761df8]" name="setUp" is-config="true" duration-ms="23569" started-at="2022-08-06T21:03:04Z" finished-at="2022-08-06T21:03:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.browserstack.run_second_test.SecondTest@15761df8]" name="test" duration-ms="5758" started-at="2022-08-06T21:03:28Z" finished-at="2022-08-06T21:03:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.browserstack.run_second_test.SecondTest@15761df8]" name="tearDown" is-config="true" duration-ms="1772" started-at="2022-08-06T21:03:34Z" finished-at="2022-08-06T21:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.run_second_test.SecondTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

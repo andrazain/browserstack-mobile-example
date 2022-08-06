@@ -1,0 +1,19 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "herdianchandra_votBlM",
+  "access_key": "mpGwrxgyMste81qBxzUV",
+
+  "capabilities": {
+    "project": "Second TestNg Android Project",
+    "build": "TestNg Android Second",
+    "name": "second_test",
+    "browserstack.debug": true,
+    "app": "bs://28fde01c3bf6729cc93cd73a59d9a2fa08e0926f"
+  },
+  "environments": [
+    { 
+      "device": "Google Pixel 3",
+      "os_version": "9.0"
+    }
+  ]
+}
